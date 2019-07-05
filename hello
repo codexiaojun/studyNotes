@@ -1,5 +1,0 @@
-class Frist{
-public static void main (String args[]){
-  System.ou.println("hello world");//输出hello world
-}
-}
